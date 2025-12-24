@@ -37,21 +37,10 @@ The project includes:
 The following models were trained and evaluated:
 
 1. **Logistic Regression**
-
-   * Accuracy: ~88%
 2. **Naive Bayes (GaussianNB)**
-
-   * Accuracy: ~87%
 3. **Support Vector Machine (SVM)**
-
-   * Accuracy: ~70%
 4. **XGBoost Classifier**
-
-   * Accuracy: ~82%
 5. **Neural Network (Keras Sequential Model)**
-
-   * Accuracy: ~87%
-
 
 ## Exploratory Data Analysis
 
